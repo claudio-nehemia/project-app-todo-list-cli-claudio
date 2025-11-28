@@ -197,3 +197,7 @@ Setelah isi task, isi file mirip kayak gini:
   "Priority": "high"
  }
 ]
+
+## Link Video Penjelasan
+
+https://youtu.be/bg3PkS_LbKA
