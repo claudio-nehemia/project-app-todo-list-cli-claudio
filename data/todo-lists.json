@@ -1,0 +1,26 @@
+[
+ {
+  "Id": 1,
+  "CreatedAt": "2025-11-28T02:48:11.6116431+07:00",
+  "UpdatedAt": "2025-11-29T00:51:53.3025321+07:00",
+  "Task_name": "Belajar Go",
+  "Status": "done",
+  "Priority": "high"
+ },
+ {
+  "Id": 2,
+  "CreatedAt": "2025-11-29T00:51:03.7806363+07:00",
+  "UpdatedAt": "2025-11-29T00:52:03.7592307+07:00",
+  "Task_name": "Skripsian",
+  "Status": "done",
+  "Priority": "high"
+ },
+ {
+  "Id": 3,
+  "CreatedAt": "2025-11-29T00:51:17.9306957+07:00",
+  "UpdatedAt": "2025-11-29T01:07:06.6995169+07:00",
+  "Task_name": "Belajar Fisika",
+  "Status": "progress",
+  "Priority": "high"
+ }
+]
